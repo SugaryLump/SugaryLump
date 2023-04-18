@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there, my name is Alexandre Flores and I am a graduate student of Computer Science & Engineering. I am currently studying for a master's degree in Computer Graphics and Language Engineering.
+
+I love game development and seek to improve my skills and learn. I am also currently working on and off on a Unity 2D hobby project.
 
 <!--
 **SugaryLump/SugaryLump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
