@@ -1,6 +1,6 @@
-Hi there, my name is Alexandre Flores and I am a graduate student of Computer Science & Engineering. I am currently studying for a master's degree in Computer Graphics and Language Engineering.
+Hello, my name is Alexandre Flores and I am a graduate student of Computer Science & Engineering. I am currently studying for a master's degree in Computer Graphics and Language Engineering and working full time as a junior programmer at KEEP Solutions.
 
-I love game development and seek to improve my skills and learn. I am currently picking up and learning about all kinds of tech in small hobby projects, with the intent to practice and get to know different workflows in game development.
+I love game development and art, and seek to improve my skills and learn. I am usually picking up and learning about all kinds of things in small hobby projects, with the intent to practice and get to know different workflows in game development and illustration.
 
 **Email:** [alexcarvalhoflores@gmail.com](mailto:alexcarvalhoflores@gmail.com)
 
